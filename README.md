@@ -19,5 +19,5 @@ This project is a web-based application that allows users to scan documents and 
 
 1. **Clone the repository** (or download the project folder):
    ```bash
-   git clone https://github.com/yourusername/doc-scanner.git
-   cd doc-scanner
+   git clone https://github.com/princekpankaj/DocScanPro.git
+   cd DocScanPro
